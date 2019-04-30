@@ -1,4 +1,4 @@
---
+---
 name: Feature request
 about: Suggest future improvements for Simplex
 
